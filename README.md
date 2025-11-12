@@ -28,8 +28,8 @@ UX/UI Design • Motion & Animation • Privacy-First Tech • Design Systems �
 
 ## ⚙️ Skills & Tools
 
-**Design:** Figma • FigJam • Human-centered Design • Interaction Design • Prototyping
-**Development:** Next.js • Astro • TypeScript • Tailwind CSS
+**Design:** Figma • FigJam • Human-centered Design • Interaction Design • Prototyping  
+**Development:** Next.js • Astro • TypeScript • Tailwind CSS  
 **Focus Areas:** Accessibility • Performance • Privacy-first UX
 
 ## 🔗 My Work
