@@ -22,8 +22,6 @@ UX/UI Design • Motion & Animation • Privacy-First Tech • Design Systems �
 
 - 🧑‍🤝‍🧑 Human-centered and privacy-first UX projects
 - 🎨 Open-source design systems and accessible components
-- ✨ Experimental interfaces that explore meaningful motion
-- 🛠️ Tools and resources that empower designers and developers
 - 📊 Research-driven design case studies and usability projects
 
 ## ⚙️ Skills & Tools
