@@ -8,7 +8,7 @@ Crafting clean, minimal digital experiences with intention. Based in Houston, Te
 
 ## 👀 Interests
 
-UI/UX Design • Web Development • Motion & Animation • Privacy-First Tech • Design Systems • Interactive Experiences
+UX/UI Design • Motion & Animation • Privacy-First Tech • Design Systems • Interactive Experiences • Web Development
 
 ## 🌱 Currently Learning
 
@@ -34,8 +34,7 @@ UI/UX Design • Web Development • Motion & Animation • Privacy-First Tech �
 ## 🔗 My Work
 
 - **[phaneendra.dev](https://phaneendra.dev)** — Portfolio & interactive experiments
-- **[uidotux.com](https://uidotux.com)** — UI/UX resources and guidelines
-- **[xoxosite.com](https://xoxosite.com)** — Design inspiration hub
+- **[uidotux.com](https://uidotux.com)** — UX/UI resources
 
 ## 📊 What I'm Building
 
@@ -48,17 +47,13 @@ UI/UX Design • Web Development • Motion & Animation • Privacy-First Tech �
 ## 📫 How to Reach Me
 
 - Website: [phaneendra.dev](https://phaneendra.dev)
-- Email: your@email.com
-- Twitter: [@yourhandle](https://twitter.com/yourhandle)
-
-## 😄 Pronouns
-
-he/him
+- Email: phaneendra.work@proton.me
+- Linkedin: [@phaneendrakanaparthi](https://www.linkedin.com/in/phaneendrakanaparthi/))
 
 ## ⚡ Fun Facts
 
 - I prototype in HTML/CSS/JS before converting to React/TypeScript
-- I obsess over spacing, typography, and pixel-perfect details
+- I obsess over 
 - I build interactive "Potion Lab" themed sections with collision detection
 - Every design choice should be intentional—no accidental complexity
 
