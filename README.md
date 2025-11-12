@@ -10,12 +10,13 @@ Crafting clean, minimal digital experiences with intention. Based in Houston, Te
 
 UX/UI Design • Motion & Animation • Privacy-First Tech • Design Systems • Interactive Experiences • Web Development
 
-## 🌱 Currently Learning
+## 🌱 Currently Exploring
 
-- Advanced animation techniques and physics-based interactions
-- Web performance optimization and Core Web Vitals
-- Vercel Web Analytics implementation
-- Accessible component design patterns
+- 🔒 Privacy-first UX patterns — designing for transparency and user control
+- ♿ Accessible and inclusive design systems
+- 🤝 Ethical design and user trust principles
+- 🧪 Usability testing and real-world behavior insights
+- ⚡ Understanding how performance and content structure shape UX
 
 ## 💞️ Looking to Collaborate On
 
