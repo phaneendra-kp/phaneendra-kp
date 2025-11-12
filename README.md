@@ -1,4 +1,4 @@
-# 👋 Hi, I'm @phaneendra-kp
+# 👋 Hi, I'm Phaneendra Kanaparthi
 
 ### Multidisciplinary Designer & Web Developer
 
@@ -20,17 +20,17 @@ UX/UI Design • Motion & Animation • Privacy-First Tech • Design Systems �
 
 ## 💞️ Looking to Collaborate On
 
-- Open-source design systems
-- Web tools and utilities
-- Creative web experiments
-- Privacy-focused projects
-- Interactive portfolio pieces
+- 🧑‍🤝‍🧑 Human-centered and privacy-first UX projects
+- 🎨 Open-source design systems and accessible components
+- ✨ Experimental interfaces that explore meaningful motion
+- 🛠️ Tools and resources that empower designers and developers
+- 📊 Research-driven design case studies and usability projects
 
-## Tech Stack
+## ⚙️ Skills & Tools
 
-**Frontend:** React • Next.js • Astro • TypeScript • Tailwind CSS  
-**Design:** Figma • CSS Animation • Motion Design  
-**Tools & Platforms:** Vercel • Git • Web Analytics
+**Design:** Figma • FigJam • Human-centered Design • Interaction Design • Prototyping
+**Development:** Next.js • Astro • TypeScript • Tailwind CSS
+**Focus Areas:** Accessibility • Performance • Privacy-first UX
 
 ## 🔗 My Work
 
@@ -39,11 +39,11 @@ UX/UI Design • Motion & Animation • Privacy-First Tech • Design Systems �
 
 ## 📊 What I'm Building
 
-- Physics-based interactive components
-- Responsive navigation systems
-- Modal animation collections
-- Search interface variations
-- Bookmark & resource management systems
+- 🎨 Accessible, privacy-focused web components
+- 🧑‍🤝‍🧑 Human-centered interaction patterns and layouts
+- 🔍 Experimental search and filtering experiences
+- ⚡ Lightweight, high-performance design utilities
+- 📚 Resource management and discovery systems for designers
 
 ## 📫 How to Reach Me
 
@@ -53,11 +53,10 @@ UX/UI Design • Motion & Animation • Privacy-First Tech • Design Systems �
 
 ## ⚡ Fun Facts
 
-- I prototype in HTML/CSS/JS before converting to React/TypeScript
-- I obsess over 
-- I build interactive "Potion Lab" themed sections with collision detection
-- Every design choice should be intentional—no accidental complexity
-
+- 🎯 I believe every design element should have purpose — no visual noise
+- 👁️ I believe great UX is invisible — only the intent should stand out
+- ⚖️ I'm fascinated by the balance between aesthetics, performance, and ethics
+- 🔒 I treat privacy and accessibility as features — not afterthoughts
 ---
 
 ### 📈 GitHub Stats
