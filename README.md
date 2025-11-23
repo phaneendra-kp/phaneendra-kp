@@ -1,24 +1,22 @@
-# 👋 Hi, I'm Phaneendra Kanaparthi
+# Hi, I'm Phaneendra Kanaparthi
 
 ### Multidisciplinary Designer & Web Developer
 
 Crafting clean, minimal digital experiences with intention. Based in Houston, Texas.
 
----
-
-## 👀 Interests
+## Interests
 
 UX/UI Design  • Privacy-First Tech • Design Systems • Interactive Experiences
 
 
-## 📫 How to Reach Me
+## Reach Me
 
 - Website: [phaneendra.dev](https://phaneendra.dev)
 - Email: phaneendra.work@proton.me
 - Linkedin: [@phaneendrakanaparthi](https://www.linkedin.com/in/phaneendrakanaparthi/))
 
 
-### 📈 GitHub Stats
+### GitHub Stats
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=phaneendra-kp)](https://github.com/phaneendra-kp)
 
