@@ -16,10 +16,6 @@ UX/UI Design  • Privacy-First Tech • Design Systems • Interactive Experien
 - Linkedin: [@phaneendrakanaparthi](https://www.linkedin.com/in/phaneendrakanaparthi/))
 
 
-### GitHub Stats
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=phaneendra-kp)](https://github.com/phaneendra-kp)
-
 <!---
 phaneendra-kp/phaneendra-kp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
