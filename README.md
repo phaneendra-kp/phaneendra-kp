@@ -1,15 +1,12 @@
 # Hi, I'm Phaneendra Kanaparthi
 
-### Multidisciplinary Designer & Web Developer
+### Multidisciplinary Designer
 
 Crafting clean, minimal digital experiences with intention. Based in Houston, Texas.
 
 ## Interests
 
 UX/UI Design  • Privacy-First Tech • Design Systems • Interactive Experiences
-
-
-## Reach Me
 
 - Website: [phaneendra.dev](https://phaneendra.dev)
 - Email: phaneendra.work@proton.me
