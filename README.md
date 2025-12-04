@@ -4,8 +4,6 @@
 
 Crafting clean, minimal digital experiences with intention. Based in Houston, Texas.
 
-## Interests
-
 UX/UI Design  • Privacy-First Tech • Design Systems • Interactive Experiences
 
 - Website: [phaneendra.dev](https://phaneendra.dev)
